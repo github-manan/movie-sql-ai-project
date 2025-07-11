@@ -1,0 +1,126 @@
+review_id,movie_id,review_text,user_rating
+1001,201,Too slow and boring.,2.5
+1002,201,Mixed feelings about the plot.,3.8
+1003,202,Outstanding performance by the cast!,4.0
+1004,202,Average movie with decent visuals.,3.3
+1005,203,Lacked depth and originality.,2.3
+1006,203,Loved the acting and message.,4.8
+1007,203,Outstanding performance by the cast!,5.0
+1008,204,Inspiring and emotional journey.,4.4
+1009,204,Mixed feelings about the plot.,3.7
+1010,205,Inspiring and emotional journey.,4.9
+1011,205,Inspiring and emotional journey.,4.3
+1012,205,Mixed feelings about the plot.,3.5
+1013,206,Inspiring and emotional journey.,4.7
+1014,206,Disappointing performance.,2.2
+1015,207,Weak script and dull editing.,2.4
+1016,207,Outstanding performance by the cast!,4.6
+1017,208,Could have been better with pacing.,3.5
+1018,208,Loved the acting and message.,4.4
+1019,208,Loved the acting and message.,4.9
+1020,209,Loved the acting and message.,4.2
+1021,209,Inspiring and emotional journey.,4.4
+1022,209,Could have been better with pacing.,2.7
+1023,210,Outstanding performance by the cast!,4.3
+1024,210,"Some parts were good, some not.",2.6
+1025,210,Inspiring and emotional journey.,4.8
+1026,211,Loved the acting and message.,4.9
+1027,211,Too slow and boring.,2.6
+1028,211,Loved the acting and message.,4.7
+1029,212,Well-paced and entertaining.,4.9
+1030,212,Outstanding performance by the cast!,4.8
+1031,212,Inspiring and emotional journey.,4.4
+1032,213,Outstanding performance by the cast!,4.5
+1033,213,Outstanding performance by the cast!,4.5
+1034,214,Mixed feelings about the plot.,3.6
+1035,214,Weak script and dull editing.,1.2
+1036,214,"Some parts were good, some not.",3.4
+1037,215,Average movie with decent visuals.,2.6
+1038,215,Disappointing performance.,2.9
+1039,215,Too slow and boring.,1.7
+1040,216,Too slow and boring.,1.9
+1041,216,Well-paced and entertaining.,4.0
+1042,216,Loved the acting and message.,4.2
+1043,217,Well-paced and entertaining.,4.2
+1044,217,Loved the acting and message.,4.6
+1045,217,Brilliant storytelling and direction.,4.2
+1046,218,Loved the acting and message.,4.1
+1047,218,Well-paced and entertaining.,4.7
+1048,219,Lacked depth and originality.,2.3
+1049,219,Brilliant storytelling and direction.,4.2
+1050,220,Inspiring and emotional journey.,4.0
+1051,220,Weak script and dull editing.,2.5
+1052,221,Okay for a one-time watch.,2.6
+1053,221,Well-paced and entertaining.,4.7
+1054,221,Disappointing performance.,2.4
+1055,222,Brilliant storytelling and direction.,4.1
+1056,222,Weak script and dull editing.,2.5
+1057,223,Weak script and dull editing.,2.2
+1058,223,Inspiring and emotional journey.,4.7
+1059,224,Brilliant storytelling and direction.,4.8
+1060,224,Disappointing performance.,1.1
+1061,225,Too slow and boring.,2.2
+1062,225,Loved the acting and message.,4.9
+1063,225,Well-paced and entertaining.,4.4
+1064,226,Loved the acting and message.,4.1
+1065,226,Well-paced and entertaining.,4.8
+1066,227,Average movie with decent visuals.,2.6
+1067,227,Lacked depth and originality.,2.9
+1068,228,Well-paced and entertaining.,4.4
+1069,228,Loved the acting and message.,4.7
+1070,229,Inspiring and emotional journey.,4.5
+1071,229,Disappointing performance.,1.7
+1072,230,Well-paced and entertaining.,4.3
+1073,230,Could have been better with pacing.,3.6
+1074,231,Disappointing performance.,1.1
+1075,231,Outstanding performance by the cast!,4.9
+1076,231,Brilliant storytelling and direction.,4.4
+1077,232,Outstanding performance by the cast!,4.7
+1078,232,Loved the acting and message.,4.3
+1079,233,Brilliant storytelling and direction.,4.9
+1080,233,Too slow and boring.,1.5
+1081,233,Loved the acting and message.,4.1
+1082,234,Loved the acting and message.,4.8
+1083,234,Well-paced and entertaining.,4.3
+1084,234,Inspiring and emotional journey.,4.4
+1085,235,Loved the acting and message.,4.9
+1086,235,"Some parts were good, some not.",2.7
+1087,235,Could have been better with pacing.,3.6
+1088,236,Brilliant storytelling and direction.,4.8
+1089,236,Mixed feelings about the plot.,3.5
+1090,236,"Some parts were good, some not.",3.7
+1091,237,Disappointing performance.,1.4
+1092,237,Could have been better with pacing.,3.7
+1093,237,Well-paced and entertaining.,4.9
+1094,238,Lacked depth and originality.,1.8
+1095,238,Inspiring and emotional journey.,4.9
+1096,239,Average movie with decent visuals.,3.7
+1097,239,"Some parts were good, some not.",3.4
+1098,239,Mixed feelings about the plot.,2.9
+1099,240,Weak script and dull editing.,1.7
+1100,240,Well-paced and entertaining.,4.9
+1101,241,Disappointing performance.,2.2
+1102,241,Well-paced and entertaining.,4.7
+1103,241,Weak script and dull editing.,2.2
+1104,242,Weak script and dull editing.,1.9
+1105,242,Brilliant storytelling and direction.,4.9
+1106,243,Too slow and boring.,2.0
+1107,243,Brilliant storytelling and direction.,4.0
+1108,244,Loved the acting and message.,4.8
+1109,244,Mixed feelings about the plot.,2.6
+1110,244,Inspiring and emotional journey.,4.6
+1111,245,Brilliant storytelling and direction.,4.7
+1112,245,Mixed feelings about the plot.,3.9
+1113,246,Weak script and dull editing.,2.6
+1114,246,Brilliant storytelling and direction.,4.8
+1115,247,Well-paced and entertaining.,4.6
+1116,247,Brilliant storytelling and direction.,4.1
+1117,247,Disappointing performance.,2.7
+1118,248,Brilliant storytelling and direction.,4.4
+1119,248,Brilliant storytelling and direction.,4.5
+1120,248,Expected more from the story.,1.1
+1121,249,Loved the acting and message.,4.4
+1122,249,Loved the acting and message.,4.7
+1123,250,Okay for a one-time watch.,3.1
+1124,250,Expected more from the story.,2.2
+1125,250,Too slow and boring.,2.2

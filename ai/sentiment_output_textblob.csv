@@ -1,0 +1,126 @@
+review_id,movie_id,review_text,polarity,subjectivity,sentiment
+1001,201,Too slow and boring.,-0.65,0.7,Negative
+1002,201,Mixed feelings about the plot.,0.0,0.25,Neutral
+1003,202,Outstanding performance by the cast!,0.62,0.88,Positive
+1004,202,Average movie with decent visuals.,0.01,0.53,Neutral
+1005,203,Lacked depth and originality.,0.0,0.0,Neutral
+1006,203,Loved the acting and message.,0.35,0.4,Positive
+1007,203,Outstanding performance by the cast!,0.62,0.88,Positive
+1008,204,Inspiring and emotional journey.,0.25,0.82,Positive
+1009,204,Mixed feelings about the plot.,0.0,0.25,Neutral
+1010,205,Inspiring and emotional journey.,0.25,0.82,Positive
+1011,205,Inspiring and emotional journey.,0.25,0.82,Positive
+1012,205,Mixed feelings about the plot.,0.0,0.25,Neutral
+1013,206,Inspiring and emotional journey.,0.25,0.82,Positive
+1014,206,Disappointing performance.,-0.6,0.7,Negative
+1015,207,Weak script and dull editing.,-0.33,0.56,Negative
+1016,207,Outstanding performance by the cast!,0.62,0.88,Positive
+1017,208,Could have been better with pacing.,0.5,0.5,Positive
+1018,208,Loved the acting and message.,0.35,0.4,Positive
+1019,208,Loved the acting and message.,0.35,0.4,Positive
+1020,209,Loved the acting and message.,0.35,0.4,Positive
+1021,209,Inspiring and emotional journey.,0.25,0.82,Positive
+1022,209,Could have been better with pacing.,0.5,0.5,Positive
+1023,210,Outstanding performance by the cast!,0.62,0.88,Positive
+1024,210,"Some parts were good, some not.",0.7,0.6,Positive
+1025,210,Inspiring and emotional journey.,0.25,0.82,Positive
+1026,211,Loved the acting and message.,0.35,0.4,Positive
+1027,211,Too slow and boring.,-0.65,0.7,Negative
+1028,211,Loved the acting and message.,0.35,0.4,Positive
+1029,212,Well-paced and entertaining.,0.5,0.7,Positive
+1030,212,Outstanding performance by the cast!,0.62,0.88,Positive
+1031,212,Inspiring and emotional journey.,0.25,0.82,Positive
+1032,213,Outstanding performance by the cast!,0.62,0.88,Positive
+1033,213,Outstanding performance by the cast!,0.62,0.88,Positive
+1034,214,Mixed feelings about the plot.,0.0,0.25,Neutral
+1035,214,Weak script and dull editing.,-0.33,0.56,Negative
+1036,214,"Some parts were good, some not.",0.7,0.6,Positive
+1037,215,Average movie with decent visuals.,0.01,0.53,Neutral
+1038,215,Disappointing performance.,-0.6,0.7,Negative
+1039,215,Too slow and boring.,-0.65,0.7,Negative
+1040,216,Too slow and boring.,-0.65,0.7,Negative
+1041,216,Well-paced and entertaining.,0.5,0.7,Positive
+1042,216,Loved the acting and message.,0.35,0.4,Positive
+1043,217,Well-paced and entertaining.,0.5,0.7,Positive
+1044,217,Loved the acting and message.,0.35,0.4,Positive
+1045,217,Brilliant storytelling and direction.,0.9,1.0,Positive
+1046,218,Loved the acting and message.,0.35,0.4,Positive
+1047,218,Well-paced and entertaining.,0.5,0.7,Positive
+1048,219,Lacked depth and originality.,0.0,0.0,Neutral
+1049,219,Brilliant storytelling and direction.,0.9,1.0,Positive
+1050,220,Inspiring and emotional journey.,0.25,0.82,Positive
+1051,220,Weak script and dull editing.,-0.33,0.56,Negative
+1052,221,Okay for a one-time watch.,0.5,0.5,Positive
+1053,221,Well-paced and entertaining.,0.5,0.7,Positive
+1054,221,Disappointing performance.,-0.6,0.7,Negative
+1055,222,Brilliant storytelling and direction.,0.9,1.0,Positive
+1056,222,Weak script and dull editing.,-0.33,0.56,Negative
+1057,223,Weak script and dull editing.,-0.33,0.56,Negative
+1058,223,Inspiring and emotional journey.,0.25,0.82,Positive
+1059,224,Brilliant storytelling and direction.,0.9,1.0,Positive
+1060,224,Disappointing performance.,-0.6,0.7,Negative
+1061,225,Too slow and boring.,-0.65,0.7,Negative
+1062,225,Loved the acting and message.,0.35,0.4,Positive
+1063,225,Well-paced and entertaining.,0.5,0.7,Positive
+1064,226,Loved the acting and message.,0.35,0.4,Positive
+1065,226,Well-paced and entertaining.,0.5,0.7,Positive
+1066,227,Average movie with decent visuals.,0.01,0.53,Neutral
+1067,227,Lacked depth and originality.,0.0,0.0,Neutral
+1068,228,Well-paced and entertaining.,0.5,0.7,Positive
+1069,228,Loved the acting and message.,0.35,0.4,Positive
+1070,229,Inspiring and emotional journey.,0.25,0.82,Positive
+1071,229,Disappointing performance.,-0.6,0.7,Negative
+1072,230,Well-paced and entertaining.,0.5,0.7,Positive
+1073,230,Could have been better with pacing.,0.5,0.5,Positive
+1074,231,Disappointing performance.,-0.6,0.7,Negative
+1075,231,Outstanding performance by the cast!,0.62,0.88,Positive
+1076,231,Brilliant storytelling and direction.,0.9,1.0,Positive
+1077,232,Outstanding performance by the cast!,0.62,0.88,Positive
+1078,232,Loved the acting and message.,0.35,0.4,Positive
+1079,233,Brilliant storytelling and direction.,0.9,1.0,Positive
+1080,233,Too slow and boring.,-0.65,0.7,Negative
+1081,233,Loved the acting and message.,0.35,0.4,Positive
+1082,234,Loved the acting and message.,0.35,0.4,Positive
+1083,234,Well-paced and entertaining.,0.5,0.7,Positive
+1084,234,Inspiring and emotional journey.,0.25,0.82,Positive
+1085,235,Loved the acting and message.,0.35,0.4,Positive
+1086,235,"Some parts were good, some not.",0.7,0.6,Positive
+1087,235,Could have been better with pacing.,0.5,0.5,Positive
+1088,236,Brilliant storytelling and direction.,0.9,1.0,Positive
+1089,236,Mixed feelings about the plot.,0.0,0.25,Neutral
+1090,236,"Some parts were good, some not.",0.7,0.6,Positive
+1091,237,Disappointing performance.,-0.6,0.7,Negative
+1092,237,Could have been better with pacing.,0.5,0.5,Positive
+1093,237,Well-paced and entertaining.,0.5,0.7,Positive
+1094,238,Lacked depth and originality.,0.0,0.0,Neutral
+1095,238,Inspiring and emotional journey.,0.25,0.82,Positive
+1096,239,Average movie with decent visuals.,0.01,0.53,Neutral
+1097,239,"Some parts were good, some not.",0.7,0.6,Positive
+1098,239,Mixed feelings about the plot.,0.0,0.25,Neutral
+1099,240,Weak script and dull editing.,-0.33,0.56,Negative
+1100,240,Well-paced and entertaining.,0.5,0.7,Positive
+1101,241,Disappointing performance.,-0.6,0.7,Negative
+1102,241,Well-paced and entertaining.,0.5,0.7,Positive
+1103,241,Weak script and dull editing.,-0.33,0.56,Negative
+1104,242,Weak script and dull editing.,-0.33,0.56,Negative
+1105,242,Brilliant storytelling and direction.,0.9,1.0,Positive
+1106,243,Too slow and boring.,-0.65,0.7,Negative
+1107,243,Brilliant storytelling and direction.,0.9,1.0,Positive
+1108,244,Loved the acting and message.,0.35,0.4,Positive
+1109,244,Mixed feelings about the plot.,0.0,0.25,Neutral
+1110,244,Inspiring and emotional journey.,0.25,0.82,Positive
+1111,245,Brilliant storytelling and direction.,0.9,1.0,Positive
+1112,245,Mixed feelings about the plot.,0.0,0.25,Neutral
+1113,246,Weak script and dull editing.,-0.33,0.56,Negative
+1114,246,Brilliant storytelling and direction.,0.9,1.0,Positive
+1115,247,Well-paced and entertaining.,0.5,0.7,Positive
+1116,247,Brilliant storytelling and direction.,0.9,1.0,Positive
+1117,247,Disappointing performance.,-0.6,0.7,Negative
+1118,248,Brilliant storytelling and direction.,0.9,1.0,Positive
+1119,248,Brilliant storytelling and direction.,0.9,1.0,Positive
+1120,248,Expected more from the story.,0.2,0.45,Positive
+1121,249,Loved the acting and message.,0.35,0.4,Positive
+1122,249,Loved the acting and message.,0.35,0.4,Positive
+1123,250,Okay for a one-time watch.,0.5,0.5,Positive
+1124,250,Expected more from the story.,0.2,0.45,Positive
+1125,250,Too slow and boring.,-0.65,0.7,Negative
